@@ -1,4 +1,4 @@
 tophat2-patches
 ===============
 
-TopHat2 patches, which fixes several Segmentation faults
+Set of patches for TopHat 2.0.9~2.0.10, which fix several Segmentation faults
